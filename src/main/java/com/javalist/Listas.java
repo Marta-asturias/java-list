@@ -11,7 +11,6 @@ public class Listas {
 
     public Listas(){
      setDays();
-     getList();
     }
 
 
